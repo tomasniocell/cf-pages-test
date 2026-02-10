@@ -1,3 +1,5 @@
 {
-  "color": "orange"
+  "color": "orange",
+  "font": "Arial",
+  "hotel": "Trivago"
 }
