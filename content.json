@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "title": "Autokorjaamo Virtanen Oy",
+        "description": "Autojen ja moottoripyörien korjausta Helsingissä."
+    },
+    "hero": {
+        "headline": "Ammattitaitoista auton korjausta",
+        "subheadline": "Ota yhteyttä ja pyydä arvio jo tänään.",
+        "cta_button": "Soita meille"
+    },
+    "contact": {
+        "email": "info@autokorjaamovirtanen.fi",
+        "phone": "+358 40 123 4567"
+    },
+    "theme": {
+        "background": "#f7f7f7"
+    }
+}
